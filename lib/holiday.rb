@@ -80,8 +80,7 @@ def all_holidays_with_bbq(holiday_hash)
         end
       end
     end
-    return 
-  
+    return holiday_name_array
 
 end
 
